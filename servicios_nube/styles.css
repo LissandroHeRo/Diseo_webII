@@ -1,0 +1,81 @@
+/*body{
+    margin: 0;
+    min-height: 100vh;
+    background-image:url(cocina-mexicana.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+}*/
+
+.titulo{
+    background: url(cocina-mexicana.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    color: #FFF;
+    text-align: center;
+}
+
+.titulo2{
+    background: url(img/historia.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    color: #000000;
+    text-align: center;
+}
+
+.titulo3{
+    background: url(img/libros.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    color: #ff0000;
+    text-align: center;
+}
+
+.titulo4{
+    background: url(img/recetas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.btn1{
+    margin-top: 35px;
+    background: url(img/historia.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+    padding: 25px 250px;
+
+}
+
+.btn2{
+    margin-top: 35px;
+    background: url(img/libros.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ff0000;
+    padding: 25px 258px;
+
+}
+
+.btn3{
+    margin-top: 35px;
+    background: url(img/recetas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 25px 247px;
+
+}
